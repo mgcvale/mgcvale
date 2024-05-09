@@ -30,7 +30,7 @@
       <img src="img/r.png" width=48px>
     </div>
   <h2 align="center">Things I want to learn</h2>
-    <div align="center>
+    <div align="center">
         <img src="img/cpp.png" width=48px>
       </div>
 </html>
