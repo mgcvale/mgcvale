@@ -6,8 +6,31 @@
 ### Stuff I know 
 
 <html>
-  <h2 align="center">Things I Know Well</h2>
+  <h2 align="center">Ask me about</h2>
+  <div align="center">
+    <img src="img/java.png" width=48px>
+    <img src="img/tux.png" width=48px>
+  </div>
   <h2 align="center">Things I have a solid foundation on</h2>
-  <h2 align="center">Things I only know the basics about</h2>
+    <div align="center">
+      <img src="img/c.png" width=48px>
+      <img src="img/python.png" width=48px>
+    </div>
+  <h2 align="center">Things I know the basics about</h2>
+    <div align="center">
+      <img src="img/html.png" width=48px>
+      <img src="img/css.png" width=48px>
+      <img src="img/mysql.png" height=48px>
+      <img src="img/spring.png" height=48px>
+    </div>
   <h2 align="center">Things I'm still learning</h2>
+    <div align="center">
+      <img src="img/cs.png" width=48px>
+      <img src="img/js.png" width=48px>
+      <img src="img/r.png" width=48px>
+    </div>
+  <h2 align="center">Things I want to learn</h2>
+    <div align="center>
+        <img src="img/cpp.png" width=48px>
+      </div>
 </html>
