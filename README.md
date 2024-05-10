@@ -22,6 +22,7 @@
       <img src="img/css.png" width=48px>
       <img src="img/mysql.png" height=48px>
       <img src="img/spring.png" height=48px>
+      <img src="img/selenium.png" height=48px>
     </div>
   <h2 align="center">Things I'm still learning</h2>
     <div align="center">
