@@ -10,6 +10,7 @@
   <h2 align="center">Pergunte-me sobre</h2>
   <div align="center">
     <img src="img/java.png" width=48px>
+    <img src="img/swing.png" height=48px>
     <img src="img/tux.png" width=48px>
   </div>
   <h2 align="center">Coisas que eu sei</h2>
@@ -34,5 +35,6 @@
   <h2 align="center">Coisas que eu quero aprender</h2>
     <div align="center">
         <img src="img/cpp.png" width=48px>
+      <img src="img/qt.png" height=48px>
       </div>
 </html>
