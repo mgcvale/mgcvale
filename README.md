@@ -7,6 +7,7 @@
 ### Tecnologias
 
 <html>
+  <h2 align="center">Tenho domínio em</h2>
   <div align="center">
       <img src="img/java.png" width=48px>
       <img src="img/swing.png" width=96px>
