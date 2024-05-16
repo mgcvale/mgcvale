@@ -1,6 +1,6 @@
 ### Sobre mim
 
-- Eu me chamo miguel, e estou cursando Desenvolvimento de Sistemas no Cotil - Unicamp
+- Eu me chamo Miguel, e estou cursando Desenvolvimento de Sistemas no Cotil - Unicamp
 - As minhas linguagens favoritas são Java e C, e eu sou um viciado em linux. [Arch Linux](https://archlinux.org) + [Hyprland](https://hyprland.org)
 - Atualmente eu estou aprendendo desenvolvimento web fullstack e machine learning.
 
