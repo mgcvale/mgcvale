@@ -29,3 +29,10 @@
       <img src="img/qt.png" width=48px>
     </div>
 </html>
+
+### Stats
+<html align="center">
+  <div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mgcvale&show_icons=true&theme=tokyonight">
+  </div>
+</html>
