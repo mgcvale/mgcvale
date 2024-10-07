@@ -1,29 +1,30 @@
-<h2 align="center">Sobre mim</h2>
+<h2 align="left">About me</h2>
 
-- Eu me chamo Miguel, e estou cursando Desenvolvimento de Sistemas no [Cotil](https://www.cotil.unicamp.br) - [Unicamp](https://www.unicamp.br)
-- As minhas linguagens favoritas são Java e C, e eu sou um viciado em linux. [Arch Linux](https://archlinux.org) + [Hyprland](https://hyprland.org)
-- Atualmente eu estou aprendendo Flask e 
+- I'm a 16 year old computer science student, currently enrolled at a system development course at [Cotil](https://www.cotil.unicamp.br) - [Unicamp](https://www.unicamp.br)
+- My favourite languages are C and Java, and I am a linux addict. I use [Arch Linux](https://archlinux.org) + [Hyprland](https://hyprland.org) btw!
+- Currently, I'm learning backend development and WebSockets in C with libmicrohttpd and mongoose.
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="left">:hammer: Tools</h2>
 <br>
 <div align="center">
-    <img src="img/java.png" width=48px>
-    <img src="img/swing.png" width=96px>
-    <img src="img/tux.png" width=48px>
-    <img src="img/c.png" width=48px><br>
-    <img src="img/python.png" width=48px>
-    <img src="img/html.png" width=48px>
-    <img src="img/css.png" width=48px>
-    <img src="img/mysql.png" width=48px>
-    <img src="img/selenium.png" width=48px>
-    <img src="img/js.png" width=48px>
-    <img src="img/cs.png" width=48px>
-  </div>
+    <img src="./img/C.svg" height=48px>
+    <img src="./img/websocket.svg" height=48px>
+    <img src="./img/mongoose.png" height=48px>
+    <img src="./img/git.svg" height=48px>
+    <img src=".img/tux.svg" height=48px>
+    <img src="./Java-Dark.svg" height=48px>
+    <img src="./img/Spring-Dark.svg" height=48px>
+    <img src="./img/bootstrap.svg" height=48px>
+    <img src="./img/Python-Dark.svg" height=48px>
+    <img src="./img/Flask-Dark.svg" height=48px>
+    <img src="./img/Docker.svg" height=48px>
+</div>
 <br>
-<h2 align="center">Stats</h2>
+<h2 align="center">:fire:Stats</h2>
 <br>
 <html align="center">
   <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mgcvale&show_icons=true&theme=tokyonight">
   </div>
 </html>
+
