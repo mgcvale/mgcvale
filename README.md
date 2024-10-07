@@ -1,4 +1,4 @@
-<h2 align="left">About me</h2>
+<h2 align="left">❓ About me</h2>
 
 - I'm a 16 year old computer science student, currently enrolled at a system development course at [Cotil](https://www.cotil.unicamp.br) - [Unicamp](https://www.unicamp.br)
 - My favourite languages are C and Java, and I am a linux addict. I use [Arch Linux](https://archlinux.org) + [Hyprland](https://hyprland.org) btw!
@@ -11,8 +11,8 @@
     <img src="./img/websocket.svg" height=48px>
     <img src="./img/mongoose.png" height=48px>
     <img src="./img/git.svg" height=48px>
-    <img src=".img/tux.svg" height=48px>
-    <img src="./Java-Dark.svg" height=48px>
+    <img src="./img/tux.svg" height=48px>
+    <img src="./img/Java-Dark.svg" height=48px>
     <img src="./img/Spring-Dark.svg" height=48px>
     <img src="./img/bootstrap.svg" height=48px>
     <img src="./img/Python-Dark.svg" height=48px>
@@ -20,7 +20,7 @@
     <img src="./img/Docker.svg" height=48px>
 </div>
 <br>
-<h2 align="center">:fire:Stats</h2>
+<h2 align="left">:fire: Stats</h2>
 <br>
 <html align="center">
   <div align="center">
