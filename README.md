@@ -1,7 +1,7 @@
 <h2 align="left">❓ About me</h2>
 
 - I'm a 16 year old computer science student, currently enrolled at a system development course at [Cotil](https://www.cotil.unicamp.br) - [Unicamp](https://www.unicamp.br)
-- My favourite languages are C and Java, and I am a linux addict. I use [Arch Linux](https://archlinux.org) + [Hyprland](https://hyprland.org) btw!
+- My favourite languages are C and Java, and I am a linux addict. I use [openSUSE Tumbleweed](https://www.opensuse.org) + [Hyprland](https://hyprland.org) btw!
 - Currently, I'm learning backend development and WebSockets in C with libmicrohttpd and mongoose.
 
 <h2 align="left">:hammer: Tools</h2>
