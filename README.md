@@ -15,6 +15,7 @@
     <img src="./img/Java-Dark.svg" height=48px>
     <img src="./img/Spring-Dark.svg" height=48px>
     <img src="./img/bootstrap.svg" height=48px>
+    <img src="./img/sass.svg" height=48px><br>
     <img src="./img/Python-Dark.svg" height=48px>
     <img src="./img/Flask-Dark.svg" height=48px>
     <img src="./img/Docker.svg" height=48px>
