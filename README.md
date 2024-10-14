@@ -18,6 +18,8 @@
     <img src="./img/Python-Dark.svg" height=48px>
     <img src="./img/Flask-Dark.svg" height=48px>
     <img src="./img/Docker.svg" height=48px>
+    <img src="./img/mysql.svg" height=48px>
+    <img src="./img/sqlite.svg" height=48px>
 </div>
 <br>
 <h2 align="left">:fire: Stats</h2>
