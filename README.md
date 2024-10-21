@@ -2,7 +2,7 @@
 
 - I'm a 16 year old computer science student, currently enrolled at a system development course at [Cotil](https://www.cotil.unicamp.br) - [Unicamp](https://www.unicamp.br)
 - My favourite languages are C and Java, and I am a linux addict. I use [openSUSE Tumbleweed](https://www.opensuse.org) + [Hyprland](https://hyprland.org) btw!
-- Currently, I'm learning backend development and WebSockets in C with libmicrohttpd and mongoose.
+- Currently, I'm learning backend development and WebSockets in C with libmicrohttpd and [mongoose (an embedded webserver)](https://github.com/cesanta/mongoose).
 
 <h2 align="left">:hammer: Tools</h2>
 <br>
