@@ -4,6 +4,18 @@
 - My favourite languages are C and Java, and I am a linux addict. I use [openSUSE Tumbleweed](https://www.opensuse.org) + [Hyprland](https://hyprland.org) btw!
 - Currently, I'm learning backend development and WebSockets in C with libmicrohttpd and [mongoose (an embedded webserver)](https://github.com/cesanta/mongoose).
 
+<h2 align="left">💻 Projects</h2>
+<small><h5>Labels</h5>
+    <small>
+        d - in development &nbsp;|&nbsp; s - stable &nbsp;|&nbsp; f - finished
+    </small>
+</small>
+<br>
+<br>
+
+- [d] [Opensync](https://opensync-web.netlify.app): A streamlined lightweight self-hosed file backup platform, written in C with mongoose and SQLite
+- [d] [JurAI](https://github.com/jurai-git): An AI-powered Jurisprudence assistant, designed to help lawyers manage legal research, client interactions, and requests
+
 <h2 align="left">:hammer: Tools</h2>
 <br>
 <div align="center">
