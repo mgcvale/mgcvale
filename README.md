@@ -13,7 +13,7 @@
 <br>
 <br>
 
-- [d] [Opensync](https://opensync-web.netlify.app): A streamlined, lightweight and self-hosed file backup platform, written in C with mongoose and SQLite
+- [d] [Opensync](https://opensync-web.netlify.app): A streamlined, lightweight and open-source file backup platform, written in C with mongoose and SQLite
 - [d] [JurAI](https://github.com/jurai-git): An AI-powered Jurisprudence assistant, designed to help lawyers manage legal research, client interactions, and requests
 
 <h2 align="left">:hammer: Tools</h2>
