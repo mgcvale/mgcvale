@@ -13,8 +13,9 @@
 <br>
 <br>
 
-- [d] [Opensync](https://opensync-web.netlify.app): A streamlined, lightweight and open-source file backup platform, written in C with mongoose and SQLite
-- [d] [JurAI](https://github.com/jurai-git): An AI-powered Jurisprudence assistant, designed to help lawyers manage legal research, client interactions, and requests
+- [d] [Opensync](https://opensync-web.netlify.app): A streamlined, lightweight and open-source file backup platform, written in C with mongoose and SQLite.
+- [d] [JurAI](https://github.com/jurai-git): An AI-powered Jurisprudence assistant, designed to help lawyers manage legal research, client interactions, and requests.
+- [d] [Sculpt](https://github.com/mgcvale/sculpt): A Minimal HTTP server framework providing direct socket access for maximum user control and performance, written in pure C using sockets.
 
 <h2 align="left">:hammer: Tools</h2>
 <br>
