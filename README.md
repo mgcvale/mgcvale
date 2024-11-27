@@ -1,6 +1,6 @@
 <h2 align="left">❓ About me</h2>
 
-- I'm a 16 year old computer science student, currently enrolled at a system development course at [Cotil](https://www.cotil.unicamp.br) - [Unicamp](https://www.unicamp.br)
+- I'm a 16 year old computer science student, currently enrolled at a system development course at [Unicamp](https://www.unicamp.br)
 - My favourite language is C, and I am a linux addict. I use [openSUSE Tumbleweed](https://www.opensuse.org) + [Hyprland](https://hyprland.org) btw!
 - Currently, I'm learning backend development and the sockets API in C with libmicrohttpd and [mongoose (an embedded webserver)](https://github.com/cesanta/mongoose).
 
