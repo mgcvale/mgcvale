@@ -27,13 +27,15 @@
     <img src="./img/tux.svg" height=48px>
     <img src="./img/Java-Dark.svg" height=48px>
     <img src="./img/Spring-Dark.svg" height=48px>
-    <img src="./img/bootstrap.svg" height=48px>
-    <img src="./img/sass.svg" height=48px><br>
     <img src="./img/Python-Dark.svg" height=48px>
     <img src="./img/Flask-Dark.svg" height=48px>
-    <img src="./img/Docker.svg" height=48px>
+    <img src="./img/Docker.svg" height=48px><br>
     <img src="./img/mysql.svg" height=48px>
     <img src="./img/sqlite.svg" height=48px>
+    <img src="./img/sass.svg" height=48px>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" height=48px>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Svelte.svg" height=48px>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" height=48px>
 </div>
 <br>
 <h2 align="left">:fire: Stats</h2>
