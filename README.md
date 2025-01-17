@@ -42,8 +42,8 @@
 <br>
 <html align="center">
   <div align="center">
-  <img height=200px align="center" src="https://github-readme-stats.vercel.app/api?username=mgcvale&show_icons=true&theme=tokyonight">
-      <img height=200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgcvale&exclude_repo=dotfiles&langs_count=6&layout=compact&theme=tokyonight">
+  <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=mgcvale&show_icons=true&theme=tokyonight">
+      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgcvale&exclude_repo=dotfiles&langs_count=6&layout=compact&theme=tokyonight">
   </div>
 </html>
 
