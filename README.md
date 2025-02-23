@@ -1,6 +1,6 @@
 <h2 align="left">❓ About me</h2>
 
-- I'm a 16 year old computer science student, currently enrolled at a system development course at [Unicamp](https://www.unicamp.br)
+- I'm a 17 year old computer science student, currently enrolled at a system development course at [Unicamp](https://www.unicamp.br)
 - My favourite language is C, and I am a linux addict. I use [openSUSE Tumbleweed](https://www.opensuse.org) + [Hyprland](https://hyprland.org) btw!
 - Currently, I'm learning backend development in C with Berkeley Sockets and frontend development with Svelte.
 - To know more about me, you can visit my portifolio: [https://mgcvale.dev](https://mgcvale.dev)/
