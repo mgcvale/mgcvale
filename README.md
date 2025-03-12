@@ -2,7 +2,7 @@
 
 - I'm a 17 year old computer science student, currently enrolled at a system development course at [Unicamp](https://www.unicamp.br)
 - My favourite language is C, and I am a linux addict. I use [openSUSE Tumbleweed](https://www.opensuse.org) + [Hyprland](https://hyprland.org) btw!
-- Currently, I'm learning backend development in C with Berkeley Sockets and frontend development with Svelte.
+- Currently, I'm learning backend development in C with Kore and frontend development with Svelte.
 - To know more about me, you can visit my portifolio: [https://mgcvale.dev](https://mgcvale.dev)/
 
 <h2 align="left">💻 Projects</h2>
@@ -14,9 +14,10 @@
 <br>
 <br>
 
-- [d] [Opensync](https://opensync-web.netlify.app): A streamlined, lightweight and open-source file backup platform, written in C with kore and SQLite.
+- [d] [Opensync](https://github.com/mgcvale/opensync-backend): A streamlined, lightweight and open-source file backup platform, written in C with kore and SQLite.
 - [d] [JurAI](https://github.com/jurai-git): An AI-powered Jurisprudence assistant, designed to help lawyers manage legal research, client interactions, and requests.
 - [d] [Sculpt](https://github.com/mgcvale/sculpt): A Minimal HTTP server framework providing direct socket access for maximum user control and performance, written in pure C using sockets.
+- [d] [Yami](https://github.com/mgcvale/yami): A social media app for food critics and enthusiasts.
 
 <h2 align="left">:hammer: Tools</h2>
 <br>
