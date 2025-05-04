@@ -8,7 +8,7 @@
 <h2 align="left">💻 Projects</h2>
 <small><h5>Labels</h5>
     <small>
-        d - in development &nbsp;|&nbsp; s - stable &nbsp;|&nbsp; f - finished
+        d - in development &nbsp;|&nbsp; s - stable &nbsp;|&nbsp; f - finished &nbsp;|&nbsp; p - paused
     </small>
 </small>
 <br>
@@ -16,8 +16,9 @@
 
 - [d] [Opensync](https://github.com/mgcvale/opensync-backend): A streamlined, lightweight and open-source file backup platform, written in C with kore and SQLite.
 - [d] [JurAI](https://github.com/jurai-git): An AI-powered Jurisprudence assistant, designed to help lawyers manage legal research, client interactions, and requests.
-- [d] [Sculpt](https://github.com/mgcvale/sculpt): A Minimal HTTP server framework providing direct socket access for maximum user control and performance, written in pure C using sockets.
+- [p] [Sculpt](https://github.com/mgcvale/sculpt): A Minimal HTTP server framework providing direct socket access for maximum user control and performance, written in pure C using sockets.
 - [d] [Yami](https://github.com/mgcvale/yami): A social media app for food critics and enthusiasts.
+- [s] [Kore fork](https://github.com/mgcvale/kore): A fork of [Jorisvink's](https://github.com/jorisvink) [Kore](https://github.com/jorisvink/kore) framework, with improvements on file upload and flexibility
 
 <h2 align="left">:hammer: Tools</h2>
 <br>
@@ -33,6 +34,7 @@
     <img src="./img/Flask-Dark.svg" height=48px>
     <img src="./img/Docker.svg" height=48px><br>
     <img src="./img/mysql.svg" height=48px>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" height=48px>
     <img src="./img/sqlite.svg" height=48px>
     <img src="./img/sass.svg" height=48px>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" height=48px>
