@@ -19,30 +19,42 @@
 - [p] [Sculpt](https://github.com/mgcvale/sculpt): A Minimal HTTP server framework providing direct socket access for maximum user control and performance, written in pure C using sockets.
 - [d] [Yami](https://github.com/mgcvale/yami): A social media app for food critics and enthusiasts.
 - [s] [Kore fork](https://github.com/mgcvale/kore): A fork of [Jorisvink's](https://github.com/jorisvink) [Kore](https://github.com/jorisvink/kore) framework, with improvements on file upload and flexibility
-
 <h2 align="left">:hammer: Tools</h2>
 <br>
+
+<b>DevOps / CI/CD / Misc</b><br>
 <div align="center">
-    <img src="./img/C.svg" height=48px>
-    <img src="./img/websocket.svg" height=48px>
-    <img src="./img/mongoose.png" height=48px>
     <img src="./img/git.svg" height=48px>
+    <img src="./img/Docker.svg" height=48px>
     <img src="./img/tux.svg" height=48px>
+    <img src="./img/C.svg" height=48px>
+</div>
+<br>
+
+<b>Web/Fullstack</b><br>
+<div align="center">
     <img src="./img/Java-Dark.svg" height=48px>
     <img src="./img/Spring-Dark.svg" height=48px>
     <img src="./img/Python-Dark.svg" height=48px>
     <img src="./img/Flask-Dark.svg" height=48px>
-    <img src="./img/Docker.svg" height=48px><br>
     <img src="./img/mysql.svg" height=48px>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" height=48px>
-    <img src="./img/sqlite.svg" height=48px>
-    <img src="./img/sass.svg" height=48px>
+    <img src="./img/websocket.svg" height=48px>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" height=48px>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Svelte.svg" height=48px>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" height=48px>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" height=48px>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" height=48px>
-    <img src="https://raw.githubusercontent.com/syvixor/skills-icons/cee243d6e32b6e1fae3581ec3e576e1c7195dd6c/icons/keras.svg" height=48px>
 </div>
 <br>
+
+<b>Data Science</b><br>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/syvixor/skills-icons/cee243d6e32b6e1fae3581ec3e576e1c7195dd6c/icons/keras.svg" height=48px>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" height=48px>
+    <img src="/img/pandas.png" height=48px>
+</div>
+
 <h2 align="left">:fire: Stats</h2>
 <br>
 <html align="center">
