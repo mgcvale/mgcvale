@@ -21,38 +21,37 @@
 - [s] [Kore fork](https://github.com/mgcvale/kore): A fork of [Jorisvink's](https://github.com/jorisvink) [Kore](https://github.com/jorisvink/kore) framework, with improvements on file upload and flexibility
 <h2 align="left">:hammer: Tools</h2>
 <br>
-
 <b>DevOps / CI/CD / Misc</b><br>
 <div align="center">
-    <img src="./img/git.svg" height=48px>
-    <img src="./img/Docker.svg" height=48px>
-    <img src="./img/tux.svg" height=48px>
-    <img src="./img/C.svg" height=48px>
+    <img src="./img/git.svg" style="height: 48px !important; width: auto;" alt="Git">
+    <img src="./img/Docker.svg" style="height: 48px !important; width: auto;" alt="Docker">
+    <img src="./img/tux.svg" style="height: 48px !important; width: auto;" alt="Linux">
+    <img src="./img/C.svg" style="height: 48px !important; width: auto;" alt="C">
 </div>
 <br>
 
 <b>Web/Fullstack</b><br>
 <div align="center">
-    <img src="./img/Java-Dark.svg" height=48px>
-    <img src="./img/Spring-Dark.svg" height=48px>
-    <img src="./img/Python-Dark.svg" height=48px>
-    <img src="./img/Flask-Dark.svg" height=48px>
-    <img src="./img/mysql.svg" height=48px>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" height=48px>
-    <img src="./img/websocket.svg" height=48px>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" height=48px>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Svelte.svg" height=48px>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" height=48px>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" height=48px>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" height=48px>
+    <img src="./img/Java-Dark.svg" style="height: 48px !important; width: auto;" alt="Java">
+    <img src="./img/Spring-Dark.svg" style="height: 48px !important; width: auto;" alt="Spring">
+    <img src="./img/Python-Dark.svg" style="height: 48px !important; width: auto;" alt="Python">
+    <img src="./img/Flask-Dark.svg" style="height: 48px !important; width: auto;" alt="Flask">
+    <img src="./img/mysql.svg" style="height: 48px !important; width: auto;" alt="MySQL">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" style="height: 48px !important; width: auto;" alt="PostgreSQL">
+    <img src="./img/websocket.svg" style="height: 48px !important; width: auto;" alt="WebSocket">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" style="height: 48px !important; width: auto;" alt="TailwindCSS">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Svelte.svg" style="height: 48px !important; width: auto;" alt="Svelte">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" style="height: 48px !important; width: auto;" alt="NextJS">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" style="height: 48px !important; width: auto;" alt="React">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" style="height: 48px !important; width: auto;" alt="TypeScript">
 </div>
 <br>
 
 <b>Data Science</b><br>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/syvixor/skills-icons/cee243d6e32b6e1fae3581ec3e576e1c7195dd6c/icons/keras.svg" height=48px>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" height=48px>
-    <img src="/img/pandas.png" height=48px>
+    <img src="https://raw.githubusercontent.com/syvixor/skills-icons/cee243d6e32b6e1fae3581ec3e576e1c7195dd6c/icons/keras.svg" style="height: 48px !important; width: auto;" alt="Keras">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" style="height: 48px !important; width: auto;" alt="PyTorch">
+    <img src="/img/pandas.png" style="height: 48px !important; width: auto;" alt="Pandas">
 </div>
 
 <h2 align="left">:fire: Stats</h2>
