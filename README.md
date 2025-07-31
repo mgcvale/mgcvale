@@ -2,8 +2,8 @@
 
 - I'm a 17 year old computer science student, currently enrolled at a system development course at [Unicamp](https://www.unicamp.br)
 - My favourite language is C, and I am a linux addict. I use [openSUSE Tumbleweed](https://www.opensuse.org) + [Hyprland](https://hyprland.org) btw!
-- Currently, I'm learning backend development in C with Kore and Machine Learning.
-- To know more about me, you can visit my portifolio: [https://mgcvale.dev](https://mgcvale.dev)/
+- I'm currently learning AI development with PyTorch.
+- To know more about me, you can visit my portifolio: [https://mgcvale.dev](https://mgcvale.dev)
 
 <h2 align="left">💻 Projects</h2>
 <small><h5>Labels</h5>
@@ -32,13 +32,11 @@
 
 <b>Web/Fullstack</b><br>
 <div align="center">
-    <img src="./img/Java-Dark.svg" style="height: 48px !important; width: auto;" alt="Java">
     <img src="./img/Spring-Dark.svg" style="height: 48px !important; width: auto;" alt="Spring">
     <img src="./img/Python-Dark.svg" style="height: 48px !important; width: auto;" alt="Python">
     <img src="./img/Flask-Dark.svg" style="height: 48px !important; width: auto;" alt="Flask">
     <img src="./img/mysql.svg" style="height: 48px !important; width: auto;" alt="MySQL">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" style="height: 48px !important; width: auto;" alt="PostgreSQL">
-    <img src="./img/websocket.svg" style="height: 48px !important; width: auto;" alt="WebSocket">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" style="height: 48px !important; width: auto;" alt="TailwindCSS">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Svelte.svg" style="height: 48px !important; width: auto;" alt="Svelte">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" style="height: 48px !important; width: auto;" alt="NextJS">
@@ -49,7 +47,6 @@
 
 <b>Data Science</b><br>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/syvixor/skills-icons/cee243d6e32b6e1fae3581ec3e576e1c7195dd6c/icons/keras.svg" style="height: 48px !important; width: auto;" alt="Keras">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" style="height: 48px !important; width: auto;" alt="PyTorch">
     <img src="/img/pandas.png" style="height: 48px !important; width: auto;" alt="Pandas">
 </div>
