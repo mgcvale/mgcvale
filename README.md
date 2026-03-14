@@ -1,9 +1,9 @@
 <h2 align="left">❓ About me</h2>
 
-- I'm a 18 year old computer science student, currently enrolled at a system development course at [Unicamp](https://www.unicamp.br)
-- My favourite language is C, and I love linux. I use [openSUSE Tumbleweed](https://www.opensuse.org) + [Hyprland](https://hyprland.org) btw!
+- I'm a 18 year old computer science student, currently enrolled at a system development course at [Unicamp](https://www.unicamp.br).
+- I use [openSUSE Tumbleweed](https://www.opensuse.org) + [Hyprland](https://hyprland.org).
 - I'm currently invested in ML research on CLIP model adaptations for low-volume languages. 
-- To know more about me, you can visit my portifolio: [https://mgcvale.dev](https://mgcvale.dev)
+- To know more about me, you can visit my portifolio: [https://mgcvale.dev](https://mgcvale.dev).
 
 <h2 align="left">💻 Projects</h2>
 <small><h5>Labels</h5>
