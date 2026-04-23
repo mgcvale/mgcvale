@@ -23,10 +23,10 @@
 <h2 align="left">:hammer: Tools</h2>
 
 ### DevOps / CI/CD / Misc
-* Git, Docker, Linux, C
+* Git, Docker, Linux, C, HPC/Slurm
 
 ### Web / Fullstack
-* Spring, Python, Flask, MySQL, PostgreSQL, TailwindCSS, Svelte, NextJS, React, TypeScript
+* Spring, Python, FastAPI, PostgreSQL, TailwindCSS, Svelte, NextJS, React, TypeScript
 
 ### Data Science
-* PyTorch, Pandas
+* PyTorch, Pandas, Scikit-learn
