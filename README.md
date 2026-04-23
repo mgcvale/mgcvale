@@ -1,6 +1,6 @@
 <h2 align="left">❓ About me</h2>
 
-- I'm a 18 year old computer science student, currently enrolled at a system development course at [Unicamp](https://www.unicamp.br).
+- I'm a CS Stuent at IC - [Unicamp](https://www.unicamp.br).
 - I use [openSUSE Tumbleweed](https://www.opensuse.org) + [Hyprland](https://hyprland.org).
 - I'm currently invested in ML research on CLIP model adaptations for low-volume languages. 
 - To know more about me, you can visit my portifolio: [https://mgcvale.dev](https://mgcvale.dev).
@@ -19,44 +19,14 @@
 - [p] [Sculpt](https://github.com/mgcvale/sculpt): A Minimal HTTP server framework providing direct socket access for maximum user control and performance, written in pure C using sockets.
 - [d] [Yami](https://github.com/mgcvale/yami-frontend): A social media app for food critics and enthusiasts.
 - [s] [Kore fork](https://github.com/mgcvale/kore): A fork of [Jorisvink's](https://github.com/jorisvink) [Kore](https://github.com/jorisvink/kore) framework, with improvements on file upload and flexibility
+
 <h2 align="left">:hammer: Tools</h2>
-<br>
-<b>DevOps / CI/CD / Misc</b><br>
-<div align="center">
-    <img src="./img/git.svg" style="height: 48px !important; width: auto;" alt="Git">
-    <img src="./img/Docker.svg" style="height: 48px !important; width: auto;" alt="Docker">
-    <img src="./img/tux.svg" style="height: 48px !important; width: auto;" alt="Linux">
-    <img src="./img/C.svg" style="height: 48px !important; width: auto;" alt="C">
-</div>
-<br>
 
-<b>Web/Fullstack</b><br>
-<div align="center">
-    <img src="./img/Spring-Dark.svg" style="height: 48px !important; width: auto;" alt="Spring">
-    <img src="./img/Python-Dark.svg" style="height: 48px !important; width: auto;" alt="Python">
-    <img src="./img/Flask-Dark.svg" style="height: 48px !important; width: auto;" alt="Flask">
-    <img src="./img/mysql.svg" style="height: 48px !important; width: auto;" alt="MySQL">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" style="height: 48px !important; width: auto;" alt="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" style="height: 48px !important; width: auto;" alt="TailwindCSS">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Svelte.svg" style="height: 48px !important; width: auto;" alt="Svelte">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" style="height: 48px !important; width: auto;" alt="NextJS">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" style="height: 48px !important; width: auto;" alt="React">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" style="height: 48px !important; width: auto;" alt="TypeScript">
-</div>
-<br>
+### DevOps / CI/CD / Misc
+* Git, Docker, Linux, C
 
-<b>Data Science</b><br>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" style="height: 48px !important; width: auto;" alt="PyTorch">
-    <img src="/img/pandas.png" style="height: 48px !important; width: auto;" alt="Pandas">
-</div>
+### Web / Fullstack
+* Spring, Python, Flask, MySQL, PostgreSQL, TailwindCSS, Svelte, NextJS, React, TypeScript
 
-<h2 align="left">:fire: Stats</h2>
-<br>
-<html align="center">
-  <div align="center">
-  <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=mgcvale&show_icons=true&theme=tokyonight">
-      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgcvale&exclude_repo=dotfiles&langs_count=6&layout=compact&theme=tokyonight">
-  </div>
-</html>
-
+### Data Science
+* PyTorch, Pandas
